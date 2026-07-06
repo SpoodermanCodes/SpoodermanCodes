@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 # Sakthivel S V
 **Full-Stack Developer · Computer Vision · Applied Security**
 
