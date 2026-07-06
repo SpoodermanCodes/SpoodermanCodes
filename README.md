@@ -1,8 +1,6 @@
 <div align="center">
 
-```
-~/github/SpoodermanCodes $ whoami
-```
+
 
 # Sakthivel S V
 **Full-Stack Developer · Computer Vision · Applied Security**
